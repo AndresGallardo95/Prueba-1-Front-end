@@ -20,4 +20,4 @@ Font Awesome: Para los íconos.
 Google Fonts: Para las fuentes tipográficas.
 JavaScript y jQuery: Para la interactividad y los componentes de Bootstrap.
 
-El proyecto está publicado en GitHub Pages y puede ser visualizado en la siguiente URL: https://tu-usuario.github.io/Prueba-1-Front-end
+El proyecto está publicado en GitHub Pages y puede ser visualizado en la siguiente URL: https://andresgallardo95.github.io/Prueba-1-Front-end/
