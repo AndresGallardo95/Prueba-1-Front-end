@@ -19,4 +19,4 @@ Bootstrap 4.5.2: Para el diseño responsivo y componentes UI.
 Font Awesome: Para los íconos.
 Google Fonts: Para las fuentes tipográficas.
 JavaScript y jQuery: Para la interactividad y los componentes de Bootstrap.
-Instalación y Uso
+
